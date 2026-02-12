@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "衝動",
+  "base_artist": "Room97",
+  "createdAt": "2026-02-12T16:41:14.661618Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "衝動",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/01_衝動_B'z.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "衝動",
+      "artist": "蕭亞軒",
+      "has_synced": true,
+      "path": "select/02_衝動_蕭亞軒.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "衝動",
+      "artist": "動力火車",
+      "has_synced": true,
+      "path": "select/03_衝動_動力火車.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "衝動",
+      "artist": "A-Mei Chang",
+      "has_synced": true,
+      "path": "select/04_衝動_A-Mei_Chang.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "衝動",
+      "artist": "B’z",
+      "has_synced": true,
+      "path": "select/05_衝動_B’z.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "衝動",
+      "artist": "Power Station",
+      "has_synced": true,
+      "path": "select/06_衝動_Power_Station.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "衝動",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/07_衝動_B'z.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "衝動",
+      "artist": "王馨平",
+      "has_synced": false,
+      "path": "select/08_衝動_王馨平.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "衝動",
+      "artist": "Elva Hsiao",
+      "has_synced": true,
+      "path": "select/09_衝動_Elva_Hsiao.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "衝動",
+      "artist": "Power Station",
+      "has_synced": true,
+      "path": "select/10_衝動_Power_Station.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "衝動",
+      "artist": "Tanya Chua",
+      "has_synced": true,
+      "path": "select/11_衝動_Tanya_Chua.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "衝動",
+      "artist": "綾野ましろ",
+      "has_synced": true,
+      "path": "select/12_衝動_綾野ましろ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "衝動 (Live)",
+      "artist": "Power Station",
+      "has_synced": false,
+      "path": "select/13_衝動_(Live)_Power_Station.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "衝動 (feat. 棗いつき)",
+      "artist": "Room97",
+      "has_synced": false,
+      "path": "select/pl_01_衝動_(feat._棗いつき)_Room97.txt"
+    }
+  ]
+}
